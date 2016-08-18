@@ -1,5 +1,5 @@
-# ui-driver-skel
-Skeleton Rancher UI driver for custom docker-machine drivers
+# ui-driver-eucalyptus
+Rancher UI driver for Eucalyptus docker-machine drivers
 
 ## Setup
 
