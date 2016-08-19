@@ -81,7 +81,8 @@ gulp.task('compiled', ['js'], function() {
 });
 
 gulp.task('build', ['compiled','css','assets'], function() {
-  return gulp.src([`${TMP}/*.js`])
+  return gulp.src([TMP+'/*.js'])
   .pipe(gulpConcat('component.js',{newLine: ';\n'}))
   .pipe(gulp.dest(DIST));
+
 });

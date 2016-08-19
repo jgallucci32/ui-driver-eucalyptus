@@ -1,11 +1,11 @@
 {
-  "name": "ui-driver-skel",
+  "name": "ui-driver-eucalyptus",
   "version": "0.0.1",
-  "description": "Skeleton Rancher UI driver for custom docker-machine drivers",
+  "description": "Rancher UI driver for Eucalyptus docker-machine drivers",
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rancher/ui-driver-skel.git"
+    "url": "git+https://github.com/jgallucci32/ui-driver-eucalyptus.git"
   },
   "author": "Rancher Labs, Inc.",
   "license": "Apache-2.0",
